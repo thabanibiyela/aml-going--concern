@@ -56,6 +56,9 @@ Key challenges for real-world deployment:
 - `pandas` — data manipulation
 - `matplotlib` — feature importance plots, decision tree visualisation
 
+---
+💻 [View the project](https://thabanibiyela.github.io/aml-going--concern/)
+---
 ## Files
 
 ```
