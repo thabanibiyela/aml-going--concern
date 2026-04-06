@@ -1,39 +1,20 @@
-# Site settings
-title: Thabani Biyela
-description: Chartered Accountant (ACA) | MSc Computer Science | Senior Platform Analyst
-url: "https://thabanibiyela.github.io"
+theme: jekyll-theme-minimal
 
-# Theme
-theme: minima
-
-# Author
 author:
-  name: Thabani Biyela
-  bio: >
-    Chartered Accountant who learned to code out of frustration, and never really stopped.
-    ACA qualified, MSc in Computer Science, eight years across Big 4 audit and multinational finance.
-  location: Dublin, Ireland
-  links:
-    - label: Portfolio
-      icon: fas fa-fw fa-link
-      url: "https://thabanibiyela.github.io"
-    - label: LinkedIn
-      icon: fab fa-fw fa-linkedin
-      url: "https://www.linkedin.com/in/biyelat/"
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
+  uri              : # URL
+  email            : "none@example.org" 
 
-# Social (picked up natively by Minima)
-minima:
-  social_links:
-    linkedin: biyelat
-    github: thabanibiyela  # update if different
-
-# Footer
-footer:
-  links:
-    - label: LinkedIn
-      url: "https://www.linkedin.com/in/biyelat/"
-
-# Build settings
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "academicpages"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  linkedin         : # Username
