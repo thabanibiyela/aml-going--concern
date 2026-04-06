@@ -59,6 +59,5 @@ Key challenges for real-world deployment:
 ---
 💻 [View the notebook](https://github.com/thabanibiyela/aml-going--concern/blob/master/csm010-aml-coursework-TB203.ipynb)
 ---
-## Files
 
 ```
