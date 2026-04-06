@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 
-author: Thabani Biyela, ACA
+logo: assets/images/profile1_small.png
+title: Thabani Biyela, ACA
 description: Part of the collection of my work in finance automation showcasing how I use Python, SQL, JavaScript, and GCP to solve complex financial problems and build data-driven tools.
