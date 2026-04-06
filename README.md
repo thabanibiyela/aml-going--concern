@@ -57,7 +57,7 @@ Key challenges for real-world deployment:
 - `matplotlib` — feature importance plots, decision tree visualisation
 
 ---
-💻 [View the project](https://thabanibiyela.github.io/aml-going--concern/)
+💻 [View the project](https://github.com/thabanibiyela/aml-going--concern/blob/master/csm010-aml-coursework-TB203.ipynb)
 ---
 ## Files
 
