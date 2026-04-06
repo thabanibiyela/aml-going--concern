@@ -62,8 +62,3 @@ Key challenges for real-world deployment:
 ## Files
 
 ```
-.
-├── [csm010-aml-coursework-TB203.ipynb](csm010-aml-coursework-TB203.ipynb)   # Main notebook
-└── datasets/
-    └── data.csv                         # Taiwanese bankruptcy dataset
-```
