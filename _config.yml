@@ -1,21 +1,8 @@
 theme: jekyll-theme-minimal
 
-author:
-  # Biographic information
-  name             : Thabani Biyela, ACA 
-  bio              : Part of the collection of my work in finance automation showcasing how I use Python, SQL, JavaScript, and GCP to solve complex financial problems and build data-driven tools.
-  location         : Dublin, Ireland
-  uri              : https://thabanibiyela.github.io/
-  github           : https://thabanibiyela.github.io/
-  stackoverflow    : 22297038/thabani-biyela 
-  linkedin         : biyelat
-
-
-#theme: jekyll-theme-minimal
-
-#logo: assets/images/profile1_small.png
-#title: Thabani's homepage
-#description: A curated collection of my work in finance automation showcasing how I use Python, SQL, JavaScript, and GCP to solve complex financial problems and build data-driven tools.
+logo: assets/images/profile1_small.png
+title: Thabani's homepage
+description: Part of the collection of my work in finance automation showcasing how I use Python, SQL, JavaScript, and GCP to solve complex financial problems and build data-driven tools.
 
 # These settings control the types of collections used by the template
 
