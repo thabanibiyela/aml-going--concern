@@ -25,14 +25,12 @@ This project explores whether machine learning classifiers can outperform that b
 - **Class imbalance:** Up-sampling (×2) preferred over down-sampling to avoid discarding information
 
 ### Models Evaluated
-| Model | Notes |
-|-------|-------|
-| Logistic Regression | Baseline linear model |
-| Support Vector Machine | Scaled features |
-| Decision Tree | Best overall performer |
-| Random Forest | Best precision |
-| Linear Discriminant Analysis | Scaled features |
-| Gaussian Naive Bayes | Strong initial recall |
+- Logistic Regression -> Baseline linear model
+- Support Vector Machine -> Scaled features 
+- Decision Tree -> Best overall performer 
+- Random Forest -> Best precision 
+- Linear Discriminant Analysis -> Scaled features 
+- Gaussian Naive Bayes -> Strong initial recall 
 
 **Primary metric: recall** — in an audit context, false negatives (missed bankruptcies) are more costly than false positives.
 
